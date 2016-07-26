@@ -1,6 +1,6 @@
 # db-cp
 
-Clojure library designed to copy the contents of one database table into another - usually in a seperate database. Option to perform bulk-copy or merge-into.
+Clojure library designed to copy the contents of one database table into another - usually in a separate database. Option to perform bulk-copy or merge-into.
 
 The two databases should pretty much mirror each other. An example use is to copy data from a development environment to a local environment.
 
