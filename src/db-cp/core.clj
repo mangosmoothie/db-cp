@@ -17,7 +17,7 @@
             {:user "USER"
              :password "PASSWORD"
              :subprotocol "oracle"
-             :subname "thin:@gvdmna1d_mrp-cn.edc.nam.gm.com:1521/**SERVICENAME**"
+             :subname "thin:@**HOSTNAME**:1521/**SERVICENAME**"
              :classname "oracle.jdbc.driver.OracleDriver"}})
 
 (defn pool
